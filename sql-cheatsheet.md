@@ -27,7 +27,7 @@ WHERE t.event_date >= '2026-01-01'
 GROUP BY t.department_id;
 ```
 
-## 2) Joins (Correctness + Safety)
+## 2) Joins
 
 ###  2.1 Join with explicit keys + select list
 
